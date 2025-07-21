@@ -17,4 +17,4 @@ class InitialDataFetchSuccessState extends WatchListState {
   });
 }
 
-class InitialDataFetchErrorState extends WatchlistEvent {}
+class InitialDataFetchErrorState extends WatchListState {}
